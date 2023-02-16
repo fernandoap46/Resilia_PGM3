@@ -19,7 +19,7 @@
 
 -As entidades envolvidas devem ter relacionamentos entre si;
 
-- O banco de dados deve ser implementado de maneira fiel ao que foi modelado no dbDiagram;
+-O banco de dados deve ser implementado de maneira fiel ao que foi modelado no dbDiagram;
 
 -Todos os arquivos relacionados ao projeto devem ser colocados no GitHub;
 
