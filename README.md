@@ -1,7 +1,7 @@
 # Projeto em grupo modulo 3
 ## Contruindo um e-commerce
 
-##  [Registro de opiniões e trocas em grupo](./DOCUMENTA%C3%87%C3%83O.md)
+##  [Registro de opiniões e trocas em grupo](./DOCUMENTACAO.md.md)
 
 ##  [Documentação projeto](./STRUCTURE.md)
 
