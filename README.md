@@ -33,9 +33,9 @@
 
 ### Como foi utilizado o dbDiagrama
 
--incluir versão e link site, imagem do projeto final e observações
+-imagem do projeto final e observações
 
 ### Gerenciamento através do Workbench
 
--incluir versão e link site, imagem do projeto final e observações
+-imagem do projeto final e observações
 
