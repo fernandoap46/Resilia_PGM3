@@ -40,3 +40,7 @@
 -incluir versão e link site, imagem do projeto final e observações
 1234
 
+### Link protótipo banco de dados
+
+-Link dbdiagram:https://dbdiagram.io/d/63ee36d4296d97641d817dbe
+
