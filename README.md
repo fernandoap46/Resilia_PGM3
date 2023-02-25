@@ -33,14 +33,18 @@
 
 ### Como foi utilizado o dbDiagrama
 
--incluir versão e link site, imagem do projeto final e observações
+-Como parte do pré-requesito do projeto foi utilizado o dbdiagran para modelagem e planejamento do 
+nosso banco de dados.
+
+-Link dbdiagram:https://dbdiagram.io/d/63ee36d4296d97641d817dbe
+
+![image1](https://github.com/fernandoap46/assets-img/blob/main/assets/img/dbDiagran.JPG)
 
 ### Gerenciamento através do Workbench
 
 -incluir versão e link site, imagem do projeto final e observações
 1234
 
-### Link protótipo banco de dados
 
--Link dbdiagram:https://dbdiagram.io/d/63ee36d4296d97641d817dbe
+
 
