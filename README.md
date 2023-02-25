@@ -40,10 +40,11 @@ nosso banco de dados.
 
 ![image1](https://github.com/fernandoap46/assets-img/blob/main/assets/img/dbDiagran.JPG)
 
-### Gerenciamento através do Workbench
+### Gerenciamento através do MySQL Workbench
 
--incluir versão e link site, imagem do projeto final e observações
-1234
+![image1](https://github.com/fernandoap46/assets-img/blob/main/assets/img/mwbDiagran.JPG)
+
+-Após a migração do dbdiagram para o MySQL Workbench, 
 
 
 
