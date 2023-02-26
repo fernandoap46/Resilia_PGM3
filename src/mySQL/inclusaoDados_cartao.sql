@@ -1,4 +1,4 @@
-use educacao;
+use escola;
 
 insert into `dados_cartao` (id_cliente, bandeira_cartao, numero_cartao, codigo_seguranca, cpf, vencimento_cartao, nome_cartao)
 	VALUES (1,'Minicard',265887452314673,263,'54388790712',0424,'MARIA DINIZ');
@@ -10,8 +10,8 @@ insert into `dados_cartao` (id_cliente, bandeira_cartao, numero_cartao, codigo_s
            (5,'Halo',673813987654356,400,'42188782209',0423,'VIVIANE L M DA SILVA'),
            (6,'Vision',84775012235664,266,'44412284607',0925,'ANA BRENDA M SOUZA'),
            (7,'Minicard',265733198954873,592,'12385633209',0827,'THAIS MARTINS'),
-           (11,'Minicard',265875890112235,778,'45309914300',0226,'CARLOS A DE LIMA'),
-           (12,'Halo',673777612345677,941,'87715402344',0724,'ANA B VALES'),
+           (8,'Minicard',265875890112235,778,'45309914300',0226,'CARLOS A DE LIMA'),
+           (9,'Halo',673777612345677,941,'87715402344',0724,'ANA B VALES'),
            (10,'Minicard',673798712341118,259,'67734404410',1025,'CASSIA ALVES');
            
 -- Cartões e a qual cliente ele está cadastrado --
