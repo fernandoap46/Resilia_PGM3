@@ -27,7 +27,7 @@ Colocar senha configurada em sua máquina, caso não tenha senha configurada col
 Após esse processo todas as tabelas foram criadas, com todos os atributos definidos segue imagem de exemplo:
 
 **Atualize o SCHEMAS para verificas as tabelas criadas:**
-![image](https://user-images.githubusercontent.com/114197531/221387983-eeb6cc5a-6f81-4b2a-8b00-73f2bcf458c9.png)
+![image](https://user-images.githubusercontent.com/114197531/221426679-fe5a352e-f8ac-4efd-9086-f29d97fb36af.png)
 
 **Execute o comando: use escola;**
 Você acessou o banco de dados, agora precisa acrescentar os dados de cada tabela.
