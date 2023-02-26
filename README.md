@@ -31,6 +31,13 @@
 
 -Pelo menos 10 registros em cada tabela.
 
+
+### Utilização do Kanban
+
+-Optamos pela utilização do Kanban para ajuste e organização das etapas do projeto.
+
+![image1](https://github.com/fernandoap46/assets-img/blob/main/assets/img/Kanban.JPG)
+
 ### Como foi utilizado o dbDiagrama
 
 -Como parte do pré-requesito do projeto foi utilizado o dbdiagran para modelagem e planejamento do 
