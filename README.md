@@ -53,6 +53,7 @@ nosso banco de dados.
 
 ## Squad 
 
+### Eloisa Silva ![GitHub Org's stars](https://github.com/Eloisasilva98)
 [Eloisa Silva](https://github.com/Eloisasilva98)
 [Fernando Agostinho Pereira](https://github.com/fernandoap46)
 [Jonatas Nascimento](https://github.com/Jhonny515)
