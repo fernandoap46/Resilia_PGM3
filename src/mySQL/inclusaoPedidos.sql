@@ -2,6 +2,7 @@
 --- id como auto-incremento ira criar automatico-------------------------------------------
 --- Colocar id_cliente correspondente ao que foi criado em cliente como auto-incremento ---
 -------------------------------------------------------------------------------------------
+
 INSERT INTO pagamento (id_cliente)
 values
 (1)

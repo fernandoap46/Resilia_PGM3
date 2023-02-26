@@ -3,6 +3,7 @@
 --- na tabela pedido para não ter erro---------------------------------
 -----------------------------------------------------------------------
 
+
 INSERT INTO pagamento (forma_pagamento,autenticacao,status,id_pedido)
 values
 ('pix','B23850K68O554L6123N5','ok',1)
