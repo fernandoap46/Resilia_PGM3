@@ -39,7 +39,3 @@ values
 INSERT INTO pagamento (forma_pagamento,autenticacao,status,id_pedido)
 values
 ('pix','EL2349765JH129LMN4569','cancelado',9)
-
-INSERT INTO pagamento (forma_pagamento,autenticacao,status,id_pedido)
-values
-('pix','I234123MN59876DNJ678','ok',10)
