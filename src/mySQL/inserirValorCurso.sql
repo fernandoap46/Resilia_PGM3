@@ -34,5 +34,8 @@ insert into curso (nome_curso, descricao, duracao, preco)
 values
 ('Netbox - Documentação de Redes','Aprenda a usar uma ferramenta para documentação e automação de redes.', 18.50, 99.90);
 
+insert into curso (nome_curso, descricao, duracao, preco)
+values
+('Ruby','Aprenda a utilizar a linguagem de programação Ruby do iniciante ao avançado.', 20.00, 150.00);
 
 select * from curso;
