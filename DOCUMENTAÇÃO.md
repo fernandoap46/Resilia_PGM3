@@ -1,17 +1,32 @@
 # Relatório diário de reuniões e decisões
 
-## Definição do tema do projeto
+## 14/02
 
--14/02
+    -Tema: Escola de curso.
+    -Nicho: Nicho da escola de curso para desenvolvedores web.
 
-    -Tema: Escola de curso
-    -Nicho: Nicho da escola de curso para desenvolvedores web
+## 16/02
 
--16/02
+    -Separação das tarefas.
+    -criação Kanban
 
-    -Apresentação: 
-        Leiaute;
-        Observações: A apresentação deve conter elementos que comprovem que o banco de dados está alinhado com a visão de negócios do e-commerce.
+## 20/02
 
-    -Separação das tarefas;
+    - Modelagem do bando de dados atravez do dbDiagrama.
 
+## 23/02
+
+    - Modelagem do bando de dados atravez do dbDiagrama.
+    - Export para MYSQL Workbench
+
+## 24/02
+
+    - Criação do DB
+    - Inclusão 
+        -tabela clientes
+        -tabela curso
+        -tabela dados_cartao
+        -tabela itens
+        -tabela pagamento
+        -tabela pedido
+        -certificado

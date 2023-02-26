@@ -33,9 +33,19 @@
 
 ### Como foi utilizado o dbDiagrama
 
--incluir versão e link site, imagem do projeto final e observações
+-Como parte do pré-requesito do projeto foi utilizado o dbdiagran para modelagem e planejamento do 
+nosso banco de dados.
 
-### Gerenciamento através do Workbench
+-Link dbdiagram:https://dbdiagram.io/d/63ee36d4296d97641d817dbe
 
--incluir versão e link site, imagem do projeto final e observações
+![image1](https://github.com/fernandoap46/assets-img/blob/main/assets/img/dbDiagran.JPG)
+
+### Gerenciamento através do MySQL Workbench
+
+![image1](https://github.com/fernandoap46/assets-img/blob/main/assets/img/mwbDiagran.JPG)
+
+-Após a migração do dbdiagram para o MySQL Workbench, 
+
+
+
 
