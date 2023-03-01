@@ -30,3 +30,10 @@
         -tabela pagamento
         -tabela pedido
         -certificado
+## 28/02
+
+    -Finalização da apresentação
+
+## 01/03
+    -Ensaio apresentação 
+    -Entrega final Github
